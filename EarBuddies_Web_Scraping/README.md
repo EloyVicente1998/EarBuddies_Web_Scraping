@@ -1,4 +1,4 @@
-\# EARBUDDIES, LTD.
+# EARBUDDIES, LTD.
 
 1\. Context 📚
 
@@ -29,10 +29,20 @@ the result.
 
 3\. Technology Stack 🖥️
 
-Language: \* Python Libraries: \* bs4 \* BeautifulSoup \* Pandas \*
-Numpy Data recollection: \* Amazon.com
+Language: 
+* Python 
+Libraries: 
+* bs4 
+* BeautifulSoup 
+* Pandas 
+* Numpy 
+Data recollection: 
+* Amazon.com
 
-4\. Estructura de la carpeta 📂
-
-└── EarBuddies_Web_Scraping ├── EarBuddies, Ltd..csv ├──
-amazon_scraping.csv └── README.md
+4\. Folder Structure 📂
+```bash
+└── EarBuddies_Web_Scraping
+    ├── EarBuddies, Ltd..csv
+    ├── amazon_scraping.csv
+    └── README.md
+```
